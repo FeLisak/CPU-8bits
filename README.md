@@ -129,5 +129,4 @@ Agora a ALU expõe um único pino `MQ`, eliminando a ambiguidade e tornando a in
 
 ## Vídeo de Demonstração
 
-Clique [aqui](https://youtu.be/138wBpV3CdZ) para acessar o vídeo de demonstração e explicação do funcionamento da CPU de 8 bits.
-# CPU-8bits
+Clique [aqui](https://youtu.be/HmslYmr_9FY) para acessar o vídeo de demonstração e explicação do funcionamento da CPU de 8 bits.
